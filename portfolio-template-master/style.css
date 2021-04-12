@@ -112,21 +112,14 @@ height: auto;
     transform: translate(-50%, -50%);
 
 }
-h1{
-danger-text:var(--color-secondary)
-
-}
-
-.skillset{
-    
-
-
-
+h1#skills { 
+color: whitesmoke;   
+text-align: center;
+background-color: black;
 
 
 
 }
-
 
 
 
