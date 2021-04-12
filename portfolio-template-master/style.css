@@ -88,6 +88,10 @@ body{
     left: 0 !important;
     width: 1000px !important;
 }
+.smallImg{
+width: 300px;
+height: auto;
+}
 
 /* site-main */
 
@@ -107,7 +111,14 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 
+}
+h1{
+danger-text:var(--color-secondary)
 
+}
+
+.skillset{
+    
 
 
 
@@ -115,6 +126,14 @@ body{
 
 
 }
+
+
+
+
+
+
+
+
 .site-banner .banner-area .author .author-img{
     width: 200px;
     height: 200px;
